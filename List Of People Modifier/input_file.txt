@@ -1,0 +1,12 @@
+Jan Kowalski 30
+aaa
+Anna Nowak 40
+
+Piotr Iksiñski 50
+aaa bbb
+Marcin Igrekowski 60
+aaa bbb ccc
+
+Stanis³aw Programowalski 70
+aaa bb ccc ddd
+10 aaa bbb

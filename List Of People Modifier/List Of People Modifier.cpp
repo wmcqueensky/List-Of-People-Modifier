@@ -77,7 +77,7 @@ int main()
         try {
             cin >> file_name;
 
-            if (file_name != "input_file.txt") {
+            if (file_name != "input_file") {
                 throw 1;
             }
             else {
