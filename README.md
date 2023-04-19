@@ -27,11 +27,11 @@
 
 <h2>File Format</h2>
 
-<p>The program expects the input file to be in a specific format. Each line of the file should contain the name, surname, and age of a person, separated by commas. For example:</p>
+<p>The program expects the input file to be in a specific format. Each line of the file should contain the name, surname, and age of a person, separated by whitespaces. For example:</p>
 
 <pre>
-John,Doe,30
-Jane,Smith,25
+John Doe 30
+Jane Smith 25
 </pre>
 
 <p>The output file will also be in the same format.</p>
